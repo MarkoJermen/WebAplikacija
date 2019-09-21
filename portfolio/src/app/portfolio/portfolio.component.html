@@ -1,0 +1,15 @@
+<h1>Nagrade Porin</h1>
+<table style="width:100%">
+  <tr>
+    <th>RB</th>
+    <th>Godina</th>
+	<th>Naslov</th>
+    <th>Nagrada</th>
+  </tr>
+  <tr *ngFor="let portfolio_item of portfolio">
+    <td>{{ portfolio_item.id }}</td>
+	<td>{{ portfolio_item.godina }}</td>
+    <td>{{ portfolio_item.title }}</td>
+    <td>{{ portfolio_item.description }}</td>
+  </tr>
+</table>
