@@ -9,7 +9,7 @@ Projekt je je preuzet sa sljedećeg linka https://github.com/unizd/Razvoj-web-ap
 
 <ul>
   <li><strong>Početna</strong> – kratak info o stranici</li>
-  <img src="/screenshoots/home.gif" width="400px"</img>  
+  <img src="/screenshoots/pocetna.gif" width="400px"</img>  
   <li><strong>Oliver</strong> – kratak životopis Olivera Dragojevića</li>
   <img src="/screenshoots/oliver.gif" width="400px"</img> 
   <li><strong>Nagrade</strong> – popis Porin nagrada kroz Oliverovu karijeru</li>
