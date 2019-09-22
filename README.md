@@ -8,10 +8,9 @@ Projekt je je preuzet sa sljedećeg linka https://github.com/unizd/Razvoj-web-ap
 <h2>FRONTEND DIO – Angular, Type Script</h2>
 
 <ul>
-  <li>Početna – kratak info o stranici</li>
-  <div align="center">
-    <img src="/screenshoots/home.gif" width="400px"</img> 
-  </div>
+  <li><strong>Početna</strong> – kratak info o stranici</li>
+  <img src="/screenshoots/home.gif" width="400px"</img> 
+  
   <li>Oliver – kratak životopis Olivera Dragojevića</li>
   <li>Nagrade – popis Porin nagrada kroz Oliverovu karijeru</li>
   <li>Pjesme – iframe sa Soundcloud servisa s playlistom Olivera</li> 
