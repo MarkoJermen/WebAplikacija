@@ -9,12 +9,15 @@ Projekt je je preuzet sa sljedećeg linka https://github.com/unizd/Razvoj-web-ap
 
 <ul>
   <li><strong>Početna</strong> – kratak info o stranici</li>
-  <img src="/screenshoots/home.gif" width="400px"</img> 
-  
-  <li>Oliver – kratak životopis Olivera Dragojevića</li>
-  <li>Nagrade – popis Porin nagrada kroz Oliverovu karijeru</li>
-  <li>Pjesme – iframe sa Soundcloud servisa s playlistom Olivera</li> 
-  <li>Kontakt – moji kontakt podaci</li>
+  <img src="/screenshoots/home.gif" width="400px"</img>  
+  <li><strong>Oliver</strong> – kratak životopis Olivera Dragojevića</li>
+  <img src="/screenshoots/oliver.gif" width="400px"</img> 
+  <li><strong>Nagrade</strong> – popis Porin nagrada kroz Oliverovu karijeru</li>
+  <img src="/screenshoots/nagrade.gif" width="400px"</img> 
+  <li><strong>Pjesme</strong> – iframe sa Soundcloud servisa s playlistom Olivera</li>
+  <img src="/screenshoots/pjesme.gif" width="400px"</img> 
+  <li><strong>Kontakt</strong> – moji kontakt podaci</li>
+  <img src="/screenshoots/kontakt.gif" width="400px"</img> 
 </ul>
 
 <h2>BACKEND DIO – Flask, Python</h2>
